@@ -2,7 +2,8 @@
 
 - 💬 Favourite Quote "You were born with wings, why prefer to crawl through life?" by Rumi
 - 🔭 I’m currently working on multiple data science and machine learning initiatives
-- 🌱 I’m currently learning advanced MLOps 
+- ❤️ I enjoy designing cloud solutions for ML driven applications 
+- 🌱 I’m currently learning advanced MLOps specially in AWS
 - 📫 How to reach me: muhammad.ahsan@gmail.com
 
 <!--

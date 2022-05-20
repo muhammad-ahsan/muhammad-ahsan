@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on multiple data science and machine learning initiatives
 - ❤️ I enjoy designing cloud solutions for ML driven applications 
 - ⏱ In my free time, I visualize open data https://public.tableau.com/app/profile/muhammad.ahsan6609#!/
-- 🌱 I’m currently learning advanced MLOps specially in AWS
+- 🌱 I’m currently learning advanced MLOps and deep reinforcement learning
 - 📫 How to reach me: muhammad.ahsan@gmail.com
 
 <!--

@@ -10,8 +10,8 @@
 
 ```mermaid
 graph LR
-    A(Academia) --> B(Software Engineering)
-    B --> C(Data Science)
-    C --> D(Data Science Leadership)
+    A(Software Engineering) --> B(Data Science)
+    B --> C(Data Engineering)
+    C --> D(Data Analytics)
 ```
 

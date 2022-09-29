@@ -12,7 +12,7 @@
 ```mermaid
 
 journey
-    title Prefessional Background
+    title Professional Background
     section Timeline
       Lab Instructor: 7: University
       Software Engineer: 7: Industry

@@ -9,9 +9,15 @@
 
 
 ```mermaid
-graph LR
-    A(Software Engineering) --> B(Data Science)
-    B --> C(Data Engineering)
-    C --> D(Data Analytics)
+
+
+journey
+    title Education Background
+    section Timeline
+      Bachelor in Computer Science: 7: University
+      Masters in Data Mining: 7: University
+      Professional Scrum Master (PSM 1): 7: Certification
+      AWS Certified Solutions Architect (Associate): 7: Certification
 ```
+
 

@@ -8,11 +8,26 @@
 - 📫 How to reach me: muhammad.ahsan@gmail.com
 
 
+
 ```mermaid
 
+journey
+    title Prefessional Background
+    section Timeline
+      Lab Instructor: 7: University
+      Software Engineer: 7: Industry
+      Data Scientist: 7: Industry
+      Senior Data Scientist: 7: Industry
+      Lead Data Scientist: 7: Industry
+      Senior Machine Learning Engineer: 7: Freelance
+      L&D Trainer: 7: Contract
+      Senior Data Scientist: 7: Consulting
+```
+
+```mermaid
 
 journey
-    title Education Background
+    title Educational Background
     section Timeline
       Bachelor in Computer Science: 7: University
       Masters in Data Mining: 7: University

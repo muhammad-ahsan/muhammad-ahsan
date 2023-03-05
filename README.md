@@ -21,8 +21,7 @@ journey
       Senior Data Scientist: 7: Industry
       Lead Data Scientist: 7: Industry
       Senior Machine Learning Engineer: 7: Freelance
-      L&D Trainer: 7: Contract
-      Senior Data Scientist: 7: Consulting
+      Senior Data Scientist: 7: Industry
 ```
 
 ```mermaid

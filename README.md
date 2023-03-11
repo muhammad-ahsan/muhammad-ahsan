@@ -5,7 +5,7 @@
 - 👨‍💻 I solve business problem via data and machine learning powered software solutions 
 - ❤️ I enjoy designing cloud solutions for ML driven applications 
 - ⏱ In my free time, I read about technological advancements in science and engineering
-- 🌱 I’m currently specializing in advanced MLOps and deep reinforcement learning
+- 🌱 I’m specialized in advanced MLOps and experimenting with deep reinforcement learning
 - 📫 How to reach me: muhammad.ahsan@gmail.com
 
 

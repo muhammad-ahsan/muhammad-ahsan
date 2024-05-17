@@ -60,7 +60,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        name: Tech-stack Labels
+        name: Topics Labels
         with:
           filename: metrics.plugin.topics.svg
           token: NOT_NEEDED
@@ -69,7 +69,7 @@ jobs:
           plugin_topics_limit: 12
 
       - uses: lowlighter/metrics@latest
-        name: Tech-stack Icons
+        name: Topic Icons
         with:
           filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
@@ -77,3 +77,12 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+
+      - uses: lowlighter/metrics@latest
+        name: Gists Statistics
+        with:
+          filename: metrics.plugin.gists.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_gists: yes

@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile!
 
-💬 **Favourite Quote:** "You were born with wings, why prefer to crawl through life?" - Rumi
-
-I am a seasoned data scientist and machine learning engineer with a passion for solving complex business problems through innovative data-driven solutions. My expertise lies in developing and deploying machine learning-powered software and designing robust cloud solutions for ML-driven applications.
+I am an experienced data scientist and machine learning engineer passionate about solving complex business problems through innovative data-driven solutions. My expertise lies in developing and deploying machine learning-powered software and designing robust cloud solutions for ML-driven applications.
 
 🔭 **Current Focus:**
 - Leading multiple data science and machine learning initiatives.
@@ -27,6 +25,12 @@ I am a seasoned data scientist and machine learning engineer with a passion for 
 
 I am open to consulting opportunities and collaborations. If you have a challenging problem that could benefit from data science and machine learning, let's connect!
 
-
-  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+  <table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="/github-metrics.svg" alt=""></img>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
 

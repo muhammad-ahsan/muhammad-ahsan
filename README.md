@@ -1,27 +1,24 @@
-### Muhammad Ahsan (Ahsan) 👋
+### Muhammad Ahsan 👋
 
 Welcome to my GitHub profile!
 
-I am an experienced data scientist and machine learning engineer passionate about solving complex business problems through innovative data-driven solutions. My expertise lies in developing and deploying machine learning-powered software and designing robust cloud solutions for ML-driven applications.
 
-🔭 **Current Focus:**
-- Leading multiple data science and machine learning initiatives.
-- Specializing in advanced MLOps and deep reinforcement learning experimentation.
+🔭 **Current Focus:** Leading multiple data science and machine learning projects.
 
 👨‍💻 **What I Do:**
-- Transform data into actionable insights to drive business value.
-- Develop scalable machine learning models and algorithms.
+- Leveraging data to gain actionable insights and drive business value..
+- Develop scalable machine learning models and application.
 - Design and implement end-to-end machine learning pipelines.
+- Create and deploy comprehensive data processing workflows.
 
-❤️ **Interests:**
-- Architecting cloud solutions tailored for machine learning applications.
-- Keeping abreast of the latest technological advancements in science and engineering.
+❤️ **Interests:** Architecting scalable, fault-tolerant and secure cloud solutions tailored for machine learning driven applications.
 
-🌱 **Professional Growth:**
-- Continuously enhancing my skills in MLOps and exploring new methodologies in deep reinforcement learning.
+🌱 **Professional Growth:** Continuously enhancing my skills in deep learning, LLMs and exploring new methodologies in reinforcement learning.
 
 📫 **Contact Me:**
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ahsan/)
 - Email: [muhammad.ahsan@gmail.com](mailto:muhammad.ahsan@gmail.com)
+
 
 I am open to consulting opportunities and collaborations. If you have a challenging problem that could benefit from data science and machine learning, let's connect!
 

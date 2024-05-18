@@ -29,13 +29,16 @@ science and machine learning, let's connect!
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Metrics</title>
+    <title> Metrics </title>
 </head>
 <body>
     <table>
         <tr>
-            <td colspan="2" style="text-align: center;">
+            <td style="text-align: center;">
                 <img src="/github-metrics.svg" alt="">
+            </td>
+            <td style="text-align: center;">
+                <img src="/metrics.plugin.gists.svg" alt="">
             </td>
         </tr>
         <tr>

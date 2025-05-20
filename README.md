@@ -2,19 +2,21 @@
 
 Welcome to my GitHub profile!
 
-🔭 **Current Focus:** Leading multiple data science and machine learning projects.
+🔭 **Current Focus:** 
+
+I’m currently focused on enhancing existing machine learning systems to comply with organizational quality gates and governance standards.
 
 👨‍💻 **What I Do:**
 
-- Leveraging data to gain actionable insights and drive business value..
-- Develop scalable machine learning models and application.
-- Design and implement end-to-end machine learning pipelines.
-- Create and deploy comprehensive data processing workflows.
+I build and deploy machine learning systems that are performant, reliable and sustainable. By creating end-to-end, fault-tolerant AI pipelines, I enable businesses to make data-driven decisions that drive real value — all while making sure the solutions are secure and perform well.
 
-❤️ **Interests:** Architecting scalable, fault-tolerant and secure cloud solutions tailored for machine learning driven
-applications.
+❤️ **Interests:** 
 
-🌱 **Professional Growth:** Continuously enhancing my skills in deep learning, LLMs and exploring new methodologies in
+Architecting scalable, fault-tolerant and cost-optimized cloud based solutions to cater requirement of real-time machine learning applications.
+
+🌱 **Professional Growth:** 
+
+Continuously enhancing my skills in deep learning, LLMs and exploring new methodologies in
 reinforcement learning.
 
 📫 **Contact Me:**

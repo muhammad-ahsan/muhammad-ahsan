@@ -1,6 +1,6 @@
 ### Ahsan (AZ) 👋
 
-Welcome to my GitHub profile!
+🧩 I'm Ahsan — friends call me AZ—a person who's lived across cultures and values genuine connection. I enjoy learning from others and exchanging ideas, especially in creative and digital spaces where collaboration helps us grow together.
 
 🔭 **Current Focus:** 
 

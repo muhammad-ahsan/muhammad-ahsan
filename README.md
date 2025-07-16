@@ -1,6 +1,8 @@
 ### Ahsan (AZ) 👋
 
-🧩 I'm Ahsan — friends call me AZ—a person who's lived across cultures and values genuine connection. I enjoy learning from others and exchanging ideas, especially in creative and digital spaces where collaboration helps us grow together.
+🧩 I'm Ahsan — friends call me AZ
+
+I naviagate life across cultures and values genuine connection. I enjoy learning from others and exchanging ideas, especially in creative and digital spaces where collaboration helps us grow together.
 
 🔭 **Current Focus:** 
 

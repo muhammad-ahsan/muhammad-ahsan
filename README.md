@@ -1,4 +1,4 @@
-### Muhammad Ahsan 👋
+### Ahsan (AZ) 👋
 
 Welcome to my GitHub profile!
 

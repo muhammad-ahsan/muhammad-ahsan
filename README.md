@@ -1,6 +1,6 @@
 ### Profile Snapshot
 
-👋 I'm Ahsan
+👋 I'm Muhammad Ahsan
 
 I naviagate life across cultures and values genuine connection. I enjoy learning from others and exchanging ideas, especially in creative and digital spaces where collaboration helps us grow together.
 

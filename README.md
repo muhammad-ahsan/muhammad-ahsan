@@ -20,7 +20,7 @@ I design end-to-end AI and data platforms, lead technical execution, and guide t
 
 I partner with startups, enterprises, and innovation teams to design and deliver production-ready AI solutions.  Reach me out here
 - 📩 **Email:** muhammad (dot) ahsan (at) gmail (dot) com  
-- 🔗 **LinkedIn:** [linkedin.com/in/muhammad-ahsan](https://www.linkedin.com/in/muhammad-ahsan/)  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/ahsanikr/)
 
 ---
 
